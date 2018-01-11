@@ -1,0 +1,14 @@
+{
+  "name": "LmsTDD",
+  "version": "1.0.0",
+  "description": "Lms Test Driven Development Output",
+  "main": "index.js",
+  "author": "Seun Agbeye",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^22.0.6"
+  }
+}
